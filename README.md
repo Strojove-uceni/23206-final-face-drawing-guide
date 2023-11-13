@@ -1,6 +1,10 @@
-Face Drawing Guide 
+**Face Drawing Guide**
 
-This project aspire to create an AI tool for art beginners. Tho goal is to help "art babies" see the guidlines and shapes in faces which can help them to learn how to draw a face on their own.
+This project aspire to create an AI tool for art beginners. 
+
+The goal is to help "art babies" see the guidlines and shapes in faces which can help them to learn how to draw a face on their own.
+
+<img src="Img/01.png" width="400">
 
 
 
