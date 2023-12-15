@@ -1,4 +1,4 @@
-<img src="Img/loomis_applogo.jpg" width="500">
+<img src="Img/loomis_applogo.jpg" width="800">
 
 # **Face Drawing Guide**
 
