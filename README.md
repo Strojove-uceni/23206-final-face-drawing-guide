@@ -1,4 +1,6 @@
-**Face Drawing Guide**
+<img src="Img/01.png" width="400">
+
+# **Face Drawing Guide**
 
 This project aspire to create an AI tool for art beginners. The goal is to help "art babies" see the guidlines and shapes in faces which can help them to learn how to draw a face on their own.
 
@@ -8,5 +10,5 @@ We decided to use a self-constructed dense neural network (NN). The goal was to 
 
 Our project introduces a fully functioning, MedaiPipe dependent neural network approach to face drawing.
 
-<img src="Img/01.png" width="400">
+
 
